@@ -1,5 +1,3 @@
-import 'package:dart/dart.dart' as dart;
-
 main(List<String> arguments) {
 
   print('Loop type: for increment');
